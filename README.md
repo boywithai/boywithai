@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:dydemiryasir@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/ahmet-yasir-demir-09968435b/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ysrdmr">LinkedIn</a> •
   <a href="https://github.com/boywithai">GitHub</a>
 </p>
 
