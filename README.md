@@ -1,6 +1,6 @@
-<p align="center">
-"Ahmet Yasir Demir — Mobile and Frontend Developer"
-</p>
+<h1 align="center">
+Ahmet Yasir Demir — Mobile and Frontend Developer
+</h1>
 
 <p align="center">
   Building real products with Flutter, React, Next.js, and TypeScript.<br />
