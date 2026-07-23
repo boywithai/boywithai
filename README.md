@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,52:1D4ED8,100:06B6D4&height=220&section=header&text=Ahmet%20Yasir%20Demir&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Mobile%20%26%20Frontend%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Ahmet Yasir Demir — Mobile and Frontend Developer" />
+"Ahmet Yasir Demir — Mobile and Frontend Developer"
 </p>
 
 <p align="center">
