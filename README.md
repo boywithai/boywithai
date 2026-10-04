@@ -1,29 +1,34 @@
 <h1 align="center">
-Ahmet Yasir Demir — Mobile and Frontend Developer
+Ahmet Yasir Demir — Product Engineer
 </h1>
 
 <p align="center">
-  Building real products with Flutter, React, Next.js, and TypeScript.<br />
-  Istanbul, Turkey &nbsp;·&nbsp; B.S. Electronics &amp; Communications Engineering
+  AI, Data &amp; Digital Products &nbsp;|&nbsp; Product Strategy &amp; Analytics<br />
+  Founder of <a href="https://ghaithlabs.com">Ghaith Labs</a> &nbsp;·&nbsp; Istanbul, Turkey &nbsp;·&nbsp; B.S. Electronics &amp; Communications Engineering
 </p>
 
 <p align="center">
   <a href="mailto:dydemiryasir@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
   <a href="https://www.linkedin.com/in/ysrdmr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open LinkedIn" /></a>
+  <a href="https://yasirdemir.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
   <a href="https://github.com/boywithai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open GitHub" /></a>
 </p>
 
 <br />
 
-## Building products across mobile and web
+## Building products from strategy to execution
 
-I build end-to-end digital products across mobile and web. My core product work is in **Flutter, Firebase, TypeScript Cloud Functions, and AI integrations**; I have built and shipped three applications on the App Store.
+I am a **Product Engineer** working at the intersection of **product strategy, analytics, AI, and software engineering**. I combine product thinking with hands-on development to identify meaningful user problems, make informed product decisions, and turn ideas into real digital products.
 
-Alongside mobile development, I build accessible, performance-conscious web experiences with **React, Next.js App Router, TypeScript, and Node.js**. My web work includes live websites, serverless functionality, interactive motion, WebGL experiences, and frontend quality checks with Lighthouse and Playwright.
+I founded **[Ghaith Labs](https://ghaithlabs.com)**, an independent digital product studio focused on building consumer applications. My portfolio includes six published App Store applications, alongside products spanning AI-powered experiences, mobile utilities, productivity, and gaming.
 
-Across both platforms, I care about clear user journeys, considered UI states, dependable integrations, and the details that make a product feel complete.
+My engineering work covers **Flutter, Firebase, TypeScript, React, Next.js, and AI integrations**. Beyond implementation, I focus on understanding user needs, shaping product direction, prioritizing features, designing clear user journeys, and using data to guide product decisions.
+
+I care about the entire product lifecycle — from problem discovery and product strategy to architecture, development, launch, and continuous improvement. My goal is not simply to ship features, but to build products that solve real problems and deliver lasting value.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Product_Strategy-0F172A?style=flat-square&logoColor=white" alt="Product Strategy" />
+  <img src="https://img.shields.io/badge/Product_Analytics-2563EB?style=flat-square&logoColor=white" alt="Product Analytics" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -40,21 +45,60 @@ Across both platforms, I care about clear user journeys, considered UI states, d
   <tr>
     <td width="33%" valign="top">
       <h3>PodTalk</h3>
-      <p>Turns PDFs, screenshots, copied text, notes, and ideas into podcast-style audio.</p>
+      <p>Transforms PDFs, screenshots, notes, text, and ideas into AI-generated podcast-style audio.</p>
       <p><code>Flutter</code> <code>Firebase</code> <code>TypeScript Cloud Functions</code> <code>Gemini</code> <code>ElevenLabs</code></p>
-      <a href="https://apps.apple.com/us/app/podtalk-ai-podcast-maker/id6756227927"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View PodTalk on the App Store" /></a>
+      <a href="https://apps.apple.com/us/app/podtalk-pdf-to-ai-podcast/id6756227927"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View PodTalk on the App Store" /></a>
     </td>
     <td width="33%" valign="top">
       <h3>PetAI</h3>
-      <p>AI-powered consumer mobile application focused on pet food safety and health.</p>
+      <p>AI-powered consumer application focused on pet food safety, health, and everyday pet care decisions.</p>
       <p><code>Flutter</code> <code>Firebase</code> <code>AI integrations</code></p>
-      <a href="https://apps.apple.com/us/app/petai-food-safety-health/id6741044829"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View PetAI on the App Store" /></a>
+      <a href="https://apps.apple.com/us/app/petai-pet-health-safety/id6741044829"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View PetAI on the App Store" /></a>
     </td>
     <td width="33%" valign="top">
       <h3>Headphone Cleaner</h3>
-      <p>Mobile utility app using audio and native device capabilities for headphone-cleaning workflows.</p>
+      <p>Mobile utility using audio and native device capabilities to help clear water and improve muffled headphone sound.</p>
       <p><code>Flutter</code> <code>MethodChannel</code> <code>Native iOS</code></p>
-      <a href="https://apps.apple.com/us/app/headphone-cleaner/id6740458474"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View Headphone Cleaner on the App Store" /></a>
+      <a href="https://apps.apple.com/us/app/water-eject-headphone-cleaner/id6740458474"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View Headphone Cleaner on the App Store" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Pikoza</h3>
+      <p>Ocean-inspired Match-3 puzzle game combining strategic board mechanics with an independent island and harbour progression system.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Game Engineering</code> <code>Product Design</code></p>
+      <a href="https://apps.apple.com/us/app/pikoza-match-3-puzzle-games/id6812778843"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View Pikoza on the App Store" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Danceify</h3>
+      <p>AI-powered mobile application that transforms photos into animated dance videos through an accessible creative workflow.</p>
+      <p><code>Generative AI</code> <code>Mobile UX</code> <code>Video Generation</code></p>
+      <a href="https://apps.apple.com/us/app/danceify-ai-dance-video/id6797909799"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View Danceify on the App Store" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>TrueSource</h3>
+      <p>An independently developed mobile detection product, part of my consumer application portfolio.</p>
+      <p><code>Mobile Product</code> <code>Product Engineering</code></p>
+      <a href="https://apps.apple.com/us/app/truesource-detector/id6753961914"><img src="https://img.shields.io/badge/View_on_the_App_Store-0F172A?style=flat-square&logo=apple&logoColor=white" alt="View TrueSource on the App Store" /></a>
+    </td>
+  </tr>
+</table>
+
+### Additional product work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://yasirdemir.com/work/save-it">Save It</a></h3>
+      <p>A local-first intelligent link library for iOS that captures content with minimal friction and organizes it into contextual Spaces.</p>
+      <p><code>iOS</code> <code>AI Integration</code> <code>Local-first</code> <code>Product Strategy</code></p>
+      <a href="https://yasirdemir.com/work/save-it"><img src="https://img.shields.io/badge/View_case_study-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="View Save It case study" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://yasirdemir.com/work/pactly">Pactly</a></h3>
+      <p>A social accountability product designed to help small groups pursue shared goals through encouragement, collaboration, and gentle reminders.</p>
+      <p><code>Product Strategy</code> <code>Behavioral Design</code> <code>Mobile UX</code></p>
+      <a href="https://yasirdemir.com/work/pactly"><img src="https://img.shields.io/badge/View_case_study-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="View Pactly case study" /></a>
     </td>
   </tr>
 </table>
@@ -65,7 +109,7 @@ Across both platforms, I care about clear user journeys, considered UI states, d
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://ghaithlabs.com">Ghaith Labs</a></h3>
-      <p>Product-first website for a consumer mobile app studio, designed to showcase its apps and their practical everyday uses.</p>
+      <p>My independent digital product studio, founded to develop and deliver consumer applications across AI, productivity, mobile utilities, and gaming.</p>
       <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>GSAP</code> <code>Framer Motion</code> <code>Three.js</code> <code>Firebase Hosting</code></p>
       <a href="https://ghaithlabs.com"><img src="https://img.shields.io/badge/Visit_live_site-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit Ghaith Labs" /></a>
     </td>
@@ -91,28 +135,31 @@ Across both platforms, I care about clear user journeys, considered UI states, d
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Mobile product development</h3>
+      <h3>Product strategy &amp; analytics</h3>
       <ul>
-        <li>Flutter applications with Firebase-backed workflows</li>
-        <li>TypeScript Cloud Functions and AI-powered features</li>
-        <li>App Store delivery and native iOS integrations</li>
+        <li>Problem discovery, user needs, and product opportunities</li>
+        <li>Product positioning, prioritization, and roadmap thinking</li>
+        <li>User journeys, funnel analysis, KPIs, and data-informed decisions</li>
+        <li>Balancing user value, technical feasibility, and business goals</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Web experiences</h3>
+      <h3>Product engineering &amp; delivery</h3>
       <ul>
-        <li>Responsive and accessible React and Next.js interfaces</li>
-        <li>Motion, WebGL, performance, and technical SEO</li>
-        <li>REST API integration, Playwright, GitHub Actions, and deployment</li>
+        <li>Flutter applications, Firebase workflows, and native iOS integrations</li>
+        <li>AI-powered features and TypeScript Cloud Functions</li>
+        <li>React, Next.js, APIs, and accessible web experiences</li>
+        <li>Performance, technical SEO, Playwright, GitHub Actions, and deployment</li>
       </ul>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="mailto:dydemiryasir@gmail.com"><strong>Get in touch</strong></a> &nbsp;·&nbsp;
+  <a href="https://yasirdemir.com"><strong>Explore my portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:dydemiryasir@gmail.com">Get in touch</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/ysrdmr">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/boywithai">GitHub</a>
+  <a href="https://ghaithlabs.com">Ghaith Labs</a>
 </p>
 
 <p align="center">
